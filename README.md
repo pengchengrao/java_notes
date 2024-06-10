@@ -1,2 +1,1 @@
-# java_notes
-java学习笔记
+计算机基础 专栏
